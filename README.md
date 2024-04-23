@@ -1,2 +1,2 @@
 # Projects
- Collection of Personal Projects
+ Collection of Personal Small Projects
